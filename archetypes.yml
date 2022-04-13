@@ -1,0 +1,14 @@
+- name: tank
+  main_stats:
+    fatigue: 150
+    health: 70
+    mdef: 10
+    resolve: 60
+    #matk: 55
+    
+- name: 2hander
+  main_stats:
+    matk: 90
+    fatigue: 120
+    mdef: 10
+
